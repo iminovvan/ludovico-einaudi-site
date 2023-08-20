@@ -386,7 +386,7 @@ fieldset b {
 
 @media all and (max-width: 500px) {
   body, .navbar, .latest-section, footer, button, .player {
-    background-color: #0E4D61;
+    background-color: #1B2430;
   }
 
   .container {
@@ -481,7 +481,7 @@ fieldset b {
 
 @media all and (max-width: 1000px) and (min-width: 500px) {
   .navbar, .latest-section, footer, button, .player{
-    background-color: #0E4D61;
+    background-color: #1B2430;
   }
   .container {
     font-size: 15px;
@@ -556,7 +556,7 @@ fieldset b {
 
 @media all and (max-width: 300px) {
   .navbar, .latest-section, footer, button, .player{
-    background-color: #615C75;
+    background-color: #1B2430;
   }
   .container {
     font-size: 13px;
